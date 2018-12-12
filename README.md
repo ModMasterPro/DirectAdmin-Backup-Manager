@@ -1,2 +1,2 @@
 # DirectAdmin-Backup-Manager
-DirectAdmin Backup mamanger plugin
+DirectAdmin Backup mananger plugin
