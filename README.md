@@ -1,4 +1,4 @@
-# DirectAdmin-Backup-Manager by ModMaster.Pro
+# DirectAdmin Incremental Backup Manager by ModMaster.Pro
 
 We have build a plugin for incremental  backups (local&remote) and would like to welcome to you test it. 
 
