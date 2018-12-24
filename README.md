@@ -31,6 +31,8 @@ Save on low server resource and less support ticket from customers.
   * DirectAdmin
   * PHP 5.6 or 7.1
   * ionCube Loader 10.2.0
+  * sshpass for remote backup
+  * lftp for FTP backup
   * Space for temporary files
   * Active or trial license Register for a free 30 day trial here
 
