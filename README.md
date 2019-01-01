@@ -44,7 +44,7 @@ https://download.modmaster.pro/directadmin/backup_manager/backup_manager.tar.gz
 3. Enter you DirectAdmin password ( admin permissions password ) and click on “Add Plugin”
 ![DirectAdmin plugin manager](https://download.modmaster.pro/directadmin/backup_manager/images/DirectAdminPluginManagerEnterData.png)
 4. Go to DirectAdmin “Home” and click on “Backups Manager Admin” and create your setting.
-![DirectAdmin plugin manager](https://download.modmaster.pro/directadmin/backup_manager/images/DirectAdminHome.png)
+![DirectAdmin plugin manager](https://download.modmaster.pro/directadmin/backup_manager/images/DirectAdminHomeNew.png)
 
 ## Support
 For any questions you can send us support ticket to support [at] mosmaster [dot] pro
