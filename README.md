@@ -26,6 +26,8 @@ Save on low server resource and less support ticket from customers.
   * Backup schedule.
   * Local backup
   * Remote backup
+  * FTP backup
+  * S3 object storages backup (Amazon S3/Wasabi/Google cloud)
 
 ## Requirements
   * DirectAdmin
@@ -33,6 +35,7 @@ Save on low server resource and less support ticket from customers.
   * ionCube Loader 10.2.0
   * sshpass for remote backup
   * lftp for FTP backup
+  * aws cli for S3 backup
   * Space for temporary files
   * Active or trial license Register for a free 30 day trial here
 
